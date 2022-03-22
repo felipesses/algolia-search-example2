@@ -1,0 +1,34 @@
+{
+  "name": "@algolia/autocomplete-example-react-renderer",
+  "description": "Autocomplete example with React Renderer",
+  "version": "1.2.2",
+  "private": true,
+  "dependencies": {
+    "@algolia/autocomplete-core": "https://pkg.csb.dev/algolia/autocomplete/commit/93e2eacb/@algolia/autocomplete-core",
+    "@algolia/autocomplete-preset-algolia": "https://pkg.csb.dev/algolia/autocomplete/commit/93e2eacb/@algolia/autocomplete-preset-algolia",
+    "@algolia/autocomplete-theme-classic": "https://pkg.csb.dev/algolia/autocomplete/commit/93e2eacb/@algolia/autocomplete-theme-classic",
+    "@algolia/client-search": "4.9.1",
+    "algoliasearch": "4.9.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-scripts": "4.0.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
